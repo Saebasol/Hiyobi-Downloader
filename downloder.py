@@ -31,7 +31,7 @@ async def download(s: str, num, limit):
 
 if __name__ == '__main__':
     num = input("번호를 입력해주세요\n")
-    limit = input("제한할 연결수를 입력해주세요(2~3추천)\n")
+    limit = input("제한할 연결수를 입력해주세요(0입력할시 제한없음,보통2~3추천)\n")
     loop = asyncio.get_event_loop()
     createFolder(f'./{num}')
     lists = loop.run_until_complete(getimg(num=num))
