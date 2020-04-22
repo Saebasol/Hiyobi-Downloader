@@ -52,4 +52,7 @@ MIT 라이센스입니다
 1. (<https://github.com/SaidBySolo/Hiyobi-Downloder>)을 포크합니다.
 2. 포크하시고 브랜치 나눠서 풀리퀘스트 보내주시면 됩니다.
 
+## 저작권  
+본 프로그램에 사용되는 아이콘의 저작권은[이분](https://www.pixiv.net/artworks/80977428)에게있습니다.
+저에게는 어떠한 권리가없고, 해당 아이콘을 무단사용시 받는 불이익은 본인에게있습니다.
 <!-- Markdown link & img dfn's -->
