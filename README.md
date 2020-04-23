@@ -18,7 +18,7 @@ pip -U pip
 git clone https://github.com/SaidBySolo/Hiyobi-Downloder.git Hiyobot -b master
 cd Hiyobi-Downloder
 pip install -r requirements.txt
-python downloder.py
+python main.py
 ```
 
 윈도우:
