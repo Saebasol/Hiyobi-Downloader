@@ -22,6 +22,7 @@ pip -U pip
 git clone https://github.com/SaidBySolo/Hiyobi-Downloder.git Hiyobot -b master
 cd Hiyobi-Downloder
 pip install -r requirements.txt
+cd src
 python main.py
 ```
 
