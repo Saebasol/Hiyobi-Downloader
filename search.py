@@ -1,6 +1,4 @@
-import asyncio
 import aiohttp
-import json
 
 async def hiyobilist(num):
     async with aiohttp.ClientSession() as cs:
@@ -23,5 +21,3 @@ async def hiyobisearch(para):
     hiyolist = [str(index) + ". " + t for index, t in enumerate(titlelist, 1)]
     print("\n".join(hiyolist))
     return idlist
-
-

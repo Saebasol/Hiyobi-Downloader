@@ -1,7 +1,6 @@
 import asyncio
 import aiohttp
 import aiofiles
-import json
 import os
 
 semnum = input("한번에 다운받을수를 입력해주세요(보통 1~5추천,cg집같은경우는 알아서 맞추세요.)\n")
