@@ -1,6 +1,6 @@
 # Hiyobi-Downloder
 
-[![Codacy Badge](https://api.codacy.com/project/badge/Grade/c3b6640a0cc24d1da5d9fe098ca72d74)](https://app.codacy.com/manual/SaidBySolo/Hiyobi-Downloder?utm_source=github.com&utm_medium=referral&utm_content=SaidBySolo/Hiyobi-Downloder&utm_campaign=Badge_Grade_Dashboard)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/d578d5329d034abfbc8311c032caf172)](https://www.codacy.com/manual/SaidBySolo/Hiyobi-Downloder?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=SaidBySolo/Hiyobi-Downloder&amp;utm_campaign=Badge_Grade)
 
 > Hiyobi.me전용 다운로더
 
