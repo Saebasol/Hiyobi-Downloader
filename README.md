@@ -1,4 +1,7 @@
 # Hiyobi-Downloder
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/c3b6640a0cc24d1da5d9fe098ca72d74)](https://app.codacy.com/manual/SaidBySolo/Hiyobi-Downloder?utm_source=github.com&utm_medium=referral&utm_content=SaidBySolo/Hiyobi-Downloder&utm_campaign=Badge_Grade_Dashboard)
+
 > Hiyobi.me전용 다운로더
  
 **해당 프로그램은 우회없이 작동됩니다.**  
