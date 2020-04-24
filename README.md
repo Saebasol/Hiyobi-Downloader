@@ -1,4 +1,7 @@
 # Hiyobi-Downloder
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/c3b6640a0cc24d1da5d9fe098ca72d74)](https://app.codacy.com/manual/SaidBySolo/Hiyobi-Downloder?utm_source=github.com&utm_medium=referral&utm_content=SaidBySolo/Hiyobi-Downloder&utm_campaign=Badge_Grade_Dashboard)
+
 > Hiyobi.me전용 다운로더
  
 **해당 프로그램은 우회없이 작동됩니다.**  
@@ -41,13 +44,13 @@ python main.py
 
 ## 업데이트 내역
 * 1.1.0  
- * 히요비에서 간단하게 검색결과를 받아올수있습니다.  
+  * 히요비에서 간단하게 검색결과를 받아올수있습니다.  
 * 1.0.2  
- * 연결제한을 한번에다운로드받는수로 변경하였습니다.  
+  * 연결제한을 한번에다운로드받는수로 변경하였습니다.  
 * 1.0.1  
- * 밴위험을 줄이기위해 연결 제한을 설정할수 있습니다.  
+  * 밴위험을 줄이기위해 연결 제한을 설정할수 있습니다.  
 * 1.0.0  
- * 첫 출시  
+  * 첫 출시  
 
 ## 정보
 
