@@ -1,6 +1,8 @@
 # Hiyobi-Downloder
 
+[![GitHub license](https://img.shields.io/github/license/SaidBySolo/Hiyobi-Downloder)](https://github.com/SaidBySolo/Hiyobi-Downloder/blob/master/LICENSE)
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/d578d5329d034abfbc8311c032caf172)](https://www.codacy.com/manual/SaidBySolo/Hiyobi-Downloder?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=SaidBySolo/Hiyobi-Downloder&amp;utm_campaign=Badge_Grade)
+![GitHub All Releases](https://img.shields.io/github/downloads/SaidBySolo/Hiyobi-Downloder/total)
 
 > Hiyobi.me전용 다운로더
 
