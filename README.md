@@ -6,6 +6,8 @@
 
 > Hiyobi.me전용 다운로더
 
+**GUI 버전을 찾으시나요? 뷰어도 지원하는 해당 [프로그램](https://github.com/ReDesignedJP/HiyobiDownloader)사용을 고려해보세요!**  
+
 ![이미지](https://i.imgur.com/VJbPq3B.gif)  
 **해당 프로그램은 우회없이 작동됩니다.**  
 비동기식 요청을 사용해 매우빠른 다운로드가 가능합니다.  
