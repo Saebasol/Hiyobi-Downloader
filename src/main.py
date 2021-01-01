@@ -1,5 +1,5 @@
 import asyncio
-import downloder
+import downloader
 import search
 
 loop = asyncio.get_event_loop()
@@ -9,18 +9,18 @@ def chkdown():
     if check == str('Y') or check == str('y'):
         num = input("리스트중 골라주세요\n")
         hiyoid = idlist[int(num) - 1]
-        downloder.createFolder(f'./{hiyoid}')
-        lists = loop.run_until_complete(downloder.getimg(num=hiyoid))
-        tasks = [downloder.download(x, num=hiyoid) for x in lists]
+        downloader.createFolder(f'./{hiyoid}')
+        lists = loop.run_until_complete(downloader.getimg(num=hiyoid))
+        tasks = [downloader.download(x, num=hiyoid) for x in lists]
         loop.run_until_complete(asyncio.wait(tasks))
 
 check = input("다운은 1번 검색은 2번을 입력해주세요\n")
 
 if check == str(1):
     num = input("번호를 입력해주세요\n")
-    downloder.createFolder(f'./{num}')
-    lists = loop.run_until_complete(downloder.getimg(num=num))
-    tasks = [downloder.download(x, num=num) for x in lists]
+    downloader.createFolder(f'./{num}')
+    lists = loop.run_until_complete(downloader.getimg(num=num))
+    tasks = [downloader.download(x, num=num) for x in lists]
     loop.run_until_complete(asyncio.wait(tasks))
 
 if check == str(2):
