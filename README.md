@@ -87,11 +87,11 @@ MIT 라이센스입니다
 
 ## 저작권  
 
-본 프로그램에 사용되는 아이콘의 저작권은[이분](https://www.pixiv.net/artworks/80977428)에게있습니다.  
-저에게는 어떠한 권리가없고, 해당 아이콘을 무단사용시 받는 불이익은 본인에게있습니다.
+본 프로그램에 사용되는 아이콘의 저작권은 [이분](https://www.pixiv.net/artworks/80977428)에게 있습니다.  
+저에게는 어떠한 권리가 없고, 해당 아이콘을 무단 사용시 받는 불이익은 본인에게 있습니다.
 
 ## 헤이 Korean 사람 불만 있습니까?
 
 여러분의 피드백의 달게 받겠습니다.
-[해당링크](https://github.com/SaidBySolo/Hiyobi-Downloder/issues)에서 버그및요청사항을 써주세요
+[해당링크](https://github.com/SaidBySolo/Hiyobi-Downloder/issues)에서 버그 및 요청 사항을 써주세요
 <!-- Markdown link & img dfn's -->
